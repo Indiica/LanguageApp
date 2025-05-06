@@ -18,7 +18,7 @@ LanguageApp is a simple terminal-based Python application to help beginners lear
 3. Exit
 + Exit the app any time by selecting the appropriate menu option.
 
-  # Sample Phrases
+# Sample Phrases
   | English Phrase     | Spanish Translation |
 | ------------------ | ------------------- |
 | Hi!                | Hola                |
