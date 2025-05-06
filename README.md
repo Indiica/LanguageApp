@@ -6,7 +6,7 @@ LanguageApp is a simple terminal-based Python application to help beginners lear
 ## Existing Features
 + Learn essential Spanish phrases
 + Take quizzes: Spanish ➜ English and English ➜ Spanish
-  ![Choice 2](images/Choice 2 - Take a spanish quiz.png)
+  
 + Simple command-line menu interface
 
 # How to use 
