@@ -7,7 +7,7 @@ LanguageApp is a simple terminal-based Python application to help beginners lear
 + Take quizzes: Spanish ➜ English and English ➜ Spanish
 + Simple command-line menu interface
 
-#How to use 
+# How to use 
 1. Run the App
  + Make sure you have Python 3 installed, then run:python language_app.py)
 2. Choose an Option from the Menu
