@@ -1,15 +1,17 @@
 # LanguageApp - Learn Basic Spanish
 LanguageApp is a simple terminal-based Python application to help beginners learn and quiz themselves on basic Spanish phrases.Whether you're starting out or brushing up, this app makes it fun and interactive!
+![Menu](.venv/images/Menu.png)
 
 # Features
 ## Existing Features
 + Learn essential Spanish phrases
 + Take quizzes: Spanish ➜ English and English ➜ Spanish
+  ![Choice 2](images/Choice 2 - Take a spanish quiz.png)
 + Simple command-line menu interface
 
 # How to use 
 1. Run the App
- + Make sure you have Python 3 installed, then run:python language_app.py)
+ + Make sure you have Python 3 installed, then run: python3 main.py
 2. Choose an Option from the Menu
    + Learn Spanish: Displays common English phrases and their Spanish translations.
    + Take a Spanish Quiz:
@@ -28,7 +30,7 @@ LanguageApp is a simple terminal-based Python application to help beginners lear
 | My name is         | Me llamo            |
 
 # Requirements
-+ Python 3.x
- + No external libraries are required—just run it as is!
++ Python 3.12.8
+ + No external libraries are required.
 
 
